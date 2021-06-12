@@ -1,0 +1,15 @@
+ 
+ 
+hitungan gaji = 
+		* (jumlah izin / jumlah hari bulan ini) * 100 		=> hasil
+		* (jumlah terlambat / jumlah hari bulan ini) * 100 	=> hasil
+		* tambahan 											=> hasil
+
+		
+		-----------------------------------------------------------------+
+															=> total
+		* asuransi + lainnya								=> kurang
+		-----------------------------------------------------------------+
+															=> total all (denda)
+
+gaji bersih = gaji pokok - total all (denda)
