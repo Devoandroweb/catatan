@@ -13,3 +13,14 @@ hitungan gaji =
 															=> total all (denda)
 
 gaji bersih = gaji pokok - total all (denda)
+
+
+
+
+
+$kalender = CAL_GREGORIAN;
+    	$bulan = date('m');
+    	$tahun = date('Y');
+
+    	$hari =  cal_days_in_month($kalender, $bulan, $tahun);
+    	echo 'Sekarang ada : ' .$hari. 'hari';
