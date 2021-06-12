@@ -1,0 +1,31 @@
+Departement
+-> Ketenaga kerjaan (kedispilinan)
+-> Keuangan (gaji)
+-> Biro Design (design banner)
+
+
+
+
+user ada 3 di atas
+-> Ketenaga kerjaan (kedispilinan)
+	- Data Pegawai
+
+-> Keuangan (gaji)
+	- penggajian
+
+-> Design
+	- input berita acara
+
+-> super admin
+	
+	- atur user
+	- semua fitur
+
+
+-> periode
+	- bulan dan tahun (102020)
+	- data baru (kosong)
+		-> absensi 
+		-> gaji
+
+-> backup
